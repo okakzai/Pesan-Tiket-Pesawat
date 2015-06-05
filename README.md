@@ -2,4 +2,4 @@ API-Tiket.com
 =============
 
 Website API Tiket.com<br />
-Live Demo: http://zainalabidin.me/portofolio/website/program/php/tiketdotcom/
+Live Demo: http://www.zainalabidin.me/demo/tiketdotcom/
